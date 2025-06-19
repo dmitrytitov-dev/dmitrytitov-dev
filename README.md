@@ -18,5 +18,5 @@ I care a lot about writing clean, understandable code, collaborating effectively
 ### If you’d like to chat or work together, feel free to reach me out:
 * **Email**: [dmitry.titov.dev@gmail.com](mailto:dmitry.titov.dev@gmail.com)
 * **Linkedin**: [@dmitry-titov-dev](https://www.linkedin.com/in/dmitry-titov-dev/)
-* **Telegram**: [@dmitry_titov_dev](t.me/dmitry_titov_dev)
-* **Whatsapp**: [+447575889905](wa.me/+447575889905)
+* **Telegram**: [@dmitry_titov_dev](https://t.me/dmitry_titov_dev)
+* **Whatsapp**: [+447575889905](https://wa.me/+447575889905)
