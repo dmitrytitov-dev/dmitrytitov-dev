@@ -5,11 +5,11 @@ I’m a frontend developer who enjoys turning complex ideas into clean, intuitiv
 Right now I’m working at Soramitsu, where I develop a blockchain explorer platform. One of the things I’m most proud of is how we improved user engagement by 30% through thoughtful design and performance tuning — including cutting the initial page load time in half. Before that, I spent a few years at JetBrains, contributing to the RustRover IDE. I joined as an intern and eventually became a senior developer. Along the way, I rewrote parts of the name resolution engine, sped up auto-import logic by 10x, and improved macro support in Rust tooling.
 
 ### Here’s what I work with regularly:
-* ✅ **Frameworks & Libraries**: Vue.js, Vue Router, Pinia, Vuex
-* ✅ **Languages**: TypeScript, JavaScript, HTML, CSS, SASS, SCSS, Rust
-* ✅ **Build & Tooling**: Vite, Webpack, ESLint, Prettier
-* ✅ **Testing & Quality**: Vitest, CI/CD, Storybook, Playwright, Cypress
-* ✅ **Other**: REST API, GraphQL, WebSocket, WebRTC, Linux, Docker
+* ✅ **Frameworks**: Vue.js, Nuxt.js, Pinia, Vuex, Vue Router
+* ✅ **Languages**: JavaScript, TypeScript, HTML, CSS, SASS, SCSS, Rust
+* ✅ **Tooling**: Vite, Webpack, SPA, SSR, ESLint, Prettier, Linux, Docker
+* ✅ **Testing**: Vitest, Jest, CI/CD, Storybook, Playwright, Cypress
+* ✅ **Other**: Git, GitHub, GraphQL, WebSocket, WebRTC, REST API, Agile, English
 
 I’ve always been drawn to frontend development because it’s where users actually experience a product. There’s something deeply satisfying about solving real problems and seeing your work come to life on screen.
 
